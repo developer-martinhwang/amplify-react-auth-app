@@ -14,6 +14,14 @@ amplify push
 
 npm install --save aws-amplify
 npm install --save @aws-amplify/ui-react
+
+## Amplify Docs for React Authenticator ##
+https://docs.amplify.aws/ui/auth/authenticator/q/framework/react
+
+## get all users info in AWS 
+
+cognito
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
